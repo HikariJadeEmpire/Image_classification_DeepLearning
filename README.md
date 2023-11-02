@@ -21,7 +21,7 @@ Image classification using MobileNet V1 deep learning
 | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HikariJadeEmpire/Image_classification_DeepLearning/blob/main/MobileNet_with_GradCAM.ipynb) | code by Colab |
 | [![](https://img.shields.io/badge/Github-.ipynb-rgb(208,211,212)?style=f?style=flat-square&logo=github&logoColor=white)](https://github.com/HikariJadeEmpire/Image_classification_DeepLearning/blob/main/MobileNet_with_GradCAM.ipynb) | code by Github |
 
-# <h3> My experiments with data augmentation layers (by keras) </h3>
+# <h3> My experiments with *data augmentation layers* (by keras) </h3>
 
 **Tool :** Google sheet <br>
 **Code :** [Click here !](https://github.com/HikariJadeEmpire/Image_classification_DeepLearning/blob/main/MobileNet_with_Augmentation_layer.ipynb)
