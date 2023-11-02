@@ -24,7 +24,7 @@ Image classification using MobileNet V1 deep learning
 # <h3> My experiments with *data augmentation layers* (by keras) </h3>
 
 **Tool :** Google sheet <br>
-**Code :** [Click here !](https://github.com/HikariJadeEmpire/Image_classification_DeepLearning/blob/main/MobileNet_with_Augmentation_layer.ipynb)
+**My experiment Code :** [Click here !](https://github.com/HikariJadeEmpire/Image_classification_DeepLearning/blob/main/MobileNet_with_Augmentation_layer.ipynb)
 
 My scores in each row was selected by minimum validation loss score <br>
 
