@@ -14,7 +14,7 @@ Image classification using MobileNet V1 deep learning
 
 <br>
 
-**CODE :** <br>
+**MAIN CODE :** <br>
 
 | Link | Description |
 |---|---|
