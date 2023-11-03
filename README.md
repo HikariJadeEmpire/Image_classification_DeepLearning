@@ -35,4 +35,7 @@ My scores in each row was selected by minimum validation loss score <br>
 ![MobileNet v 1 Accuracy](https://github.com/HikariJadeEmpire/Image_classification_DeepLearning/assets/118663358/cc40c27e-0fd8-43a1-a797-98d73ca83b20)
 ![MobileNet v 1 Loss](https://github.com/HikariJadeEmpire/Image_classification_DeepLearning/assets/118663358/a7cb9908-a1a0-4f11-bfbc-355039c2b3fa)
 
+# <h3> Summary </h3>
 
+- In the [*main code*](https://github.com/HikariJadeEmpire/Image_classification_DeepLearning/blob/main/MobileNet_with_GradCAM.ipynb), I noticed ```overfitting```. To address this, I need to increase data augmentation, add more samples, and consider additional techniques like implementing a BatchNorm layer.
+- The [*experiment code with data augmentation*](https://github.com/HikariJadeEmpire/Image_classification_DeepLearning/blob/main/MobileNet_with_Augmentation_layer.ipynb) is ```underfit```, indicating the need for more samples.
