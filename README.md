@@ -10,7 +10,7 @@ Image classification using MobileNet V1 deep learning
 | **Source of dataset** | Web scraping |
 | **Dataset size** | ~ *800 MB* to *1.3 GB* |
 | **Number of class** | 5 |
-| **Number of image per class** | 100+ |
+| **Number of image per class** | ~100 |
 
 <br>
 
